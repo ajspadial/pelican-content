@@ -1,0 +1,65 @@
+Title: El muro 1
+Date: 2011-06-28 09:12
+Tags: processing
+Category: Blog
+Author: Antonio Jesus Sanchez Padial
+
+En esta pequeña serie de artículo os invito a desarrollar juntos un pequeño videojuego, mientras aprendemos o repasamos algunos conceptos básicos de programación como los bucles o los arrays.
+
+El juego que trataremos será **El Muro**, al que algunos tal vez conozcáis con su nombre comercial Arkanoid. Es un juego bastante antiguo, pero que sigue vigente a través de sus versiones para toda la gama de teléfonos móviles.
+
+Para aquellos que no sepáis de qué estoy hablando os dejo este vídeo de muestra, donde se aprecia el aspecto y la mecánica del juego. Se trata del juego **Thro' the Wall**, probablemente el primer videojuego que tuve en el primer ordenador que hubo en mi casa, un ZX Spectrum de 48KB.
+
+En el [capítulo 8](http://www.escueladebits.com/content/cap%C3%ADtulo-8-interacci%C3%B3n-81-esquema-de-un-minijuego) de **Primeros Pasos con Processing**, ya vimos como controlar una pala, fijaros en las funciones y variables que utilizamos entonces para conseguirlo.
+
+En los [capítulos 6](http://www.escueladebits.com/content/cap%C3%ADtulo-6-bota-bota-mi-pelota) y [8.2](http://www.escueladebits.com/content/cap%C3%ADtulo-8-din%C3%A1mica-82-leyes-del-juego) también tratamos el movimiento de la pelota. En este juego el problema es muy similar, aunque añadimos complejidad. En el capítulo 6 la pelota solo podía botar con un borde de la pantalla; en el capítulo 8 añadimos otro lado y un efecto distinto cuando botase con la pala. En el juego de El Muro debemos atender el bote de la pelota con tres lados de la pantalla (superior y dos laterales), con la pala, y con cada uno de los ladrillos, concretamente con cada uno de los cuatro lados de cada uno de los ladrillos.
+
+Pero para analizar estos rebotes en primer lugar necesitamos ladrillos. Y a eso dedicaremos este artículo a **dibujar nuestros ladrillos**.
+
+El juego Thro' the Wall en el que me inspiro para esta versión, mostraba un muro de 5 hileras de 16 ladrillos cada uno. 80 ladrillos **son demasiados para dibujarlos** uno a uno con 80 llamadas a la función `rect()`. **Processing** (como casi todos los lenguajes de programación) nos ofrece una herramienta muy potente para tratar con estas tareas repetitivas: **los bucles**.
+
+<!-- more -->
+
+Los bucles son grupos de operaciones preparados para ejecutarse repetidamente un número de veces, o mientras se cumpla una condición. ¿O habéis fijado que hasta ahora hemos trabajado con un bucle característico de Processing? La función draw(), que es un tipo de bucle, ya que su característica es ejecutarse repetidamente hasta la finalización del programa. Pero en ocasiones necesitaremos bucles adicionales.
+
+En este caso utilizaremos el **bucle for**. Aunque es muy flexible y se puede usar de varios modos, es muy práctico para repetir una tarea  un número conocido de veces.
+
+``` java
+int i;
+for (i = 0; i < 20; i++) { 
+  float x = random(width);
+  float y = random(height);
+  rect(x, y, 20, 20); 
+} 
+// También podemos utilizar la variable del índice 
+for (i = 0; i < 4; i++) {
+   line(0 , 0, i * 10, 20);
+   // utilizamos la variable i para variar las líneas 
+} 
+// También es habitual declarar la variable contador en el mismo bucle for 
+for (int j = 0; j<10; j++) { 
+  ellipse (width * .5, height * .5, j * 5, j * 5); 
+}
+``` 
+
+Y tras estos ejemplos, vamos a utilizar el bucle for para dibujar una hilera de ladrillos en nuestro nuevo juego.
+
+
+``` java
+int ancho_ladrillo = width / 16; 
+int alto_ladrillo = 10; 
+for (int i = 0; i < 16; i++) { 
+  rect(i * ancho_ladrillo, 20, ancho_ladrillo, alto_ladrillo); 
+}
+```
+
+Para dibujar las 5 hileras usaremos otro bucle for, a esta técnica en la que dentro de un bucle for llamamos a otros, se la conoce como `for` o **bucles anidados** (*nested* en inglés).
+
+{% gist 3475726 %}
+
+Supongo que al ejecutarlo os pasará como a mí, y os entrararán unas ganas terribles de empezar a derribar ese colorido muro, a fuerza de pelotazos.
+
+Os voy a dejar como tarea que os peleéis con las fórmulas de la posición del ladrillo en la función `rect()` del final. Es la clave del uso del `for`. El mejor modo de aprender es comprobar qué ocurre haciendo pequeños cambios en el código. No dejéis de consultar cualquier duda en los comentarios o en la página de facebook.
+
+Tampoco he repartido el código en las funciones `setup()` o `draw()`. También queda como ejercicio. En la próxima lección veremos como hacer recordar a **Processing** qué ladrillos hemos eliminado y cuales no, y con ello empezaremos a ver la estructura básica del programa.
+

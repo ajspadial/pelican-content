@@ -1,0 +1,35 @@
+Title: prism
+Date: 2012-09-25 23:43
+Tags: processing 
+Category: Blog
+Author: Antonio Jesus Sanchez Padial
+
+El pasado mes de julio [Matt Pearson](http://zenbullets.com), autor de *Generative art: a practical guide*, pidió algunos colaboradores para escribir *sketches* de Processing, para un proyecto de [Keiichi Matsuda](http://keiichimatsuda.com).
+
+El proyecto, **Prism** consistía en una especie de *iceberg* suspendido de la cúpula más alta del museo Victoria&Albert en Londres. Sobre cada una de las caras de la estructura se proyectarían visualizaciones más o menos estéticas, representando datos en tiempo real de diverso tipo de la ciudad de Londres, desde la temperatura, a la velocidad del viento, a la cotización de la bolsa en la city.
+
+He participado escribiendo tres programas, de los cuales finalmente dos han sido exhibidos en la estructura. Uno, *Wind Flags*, representa una especie de banderas que indican la dirección e intensidad del viento. El segundo, *Humidity Gears*, más abstracta, construye un patrón animado con mayor o menor densidad de figuras en función de la humedad atmosférica.
+
+<!-- more -->
+
+{% img http://farm9.staticflickr.com/8309/8007418871_abfb6e0566.jpg %} 
+Esta es la [página web del acontecimiento](http://keiichimatsuda.com/prism/), que se podrá en el museo hasta el 28 de septiembre.
+
+En [Wallpaper*](http://www.wallpaper.com/video/design/prism-installation-by-keiichi-matsuda-for-veuve-clicquot-london/1839903946001) tienen un interesante vídeo contando la construcción del *iceberg*.
+
+Y esta es [mi galería de flickr](http://www.flickr.com/photos/organize/?start_tab=one_set72157631623123926), donde he colgado las imágenes que pude tomar del mismo.
+
+Pero las mejores fotos ahora mismo están la web de [Deezen magazine](http://www.dezeen.com/2012/09/17/prism-by-keiichi-matsuda-at-the-va/). En la segunda imagen del artículo se ve muy bien *Wind Flags*, con fondo rosa, que representa el viento en la ciudad. En la tercera, en el centro de la imagen a la derecha, con fondo azul, *Humidity Gears*
+
+Espero que os gusten estas imágenes. A mí me ha encantado participar en este proyecto, trabajando colaborativamente con más de una docena de programadores en todo el mundo, y luego ver los bits plasmados en una obra tan tangible, tan masiva, como es Prism. 
+
+A partir de la próxima semana, colgaré en la web, los programas para que los podáis ver si tenéis interés. Y de paso comentar un poco el código de los mismos.
+
+Si te gusta, lo odias, quieres saber más o tienes alguna pregunta, no dudes en usar los comentarios, ponerte en contacto por [twitter](http://twitter.com/ajspadial), o difundir el contenido a través de **karmacracy** justo aquí abajo.
+
+####Actualización
+
+**Prism** ha sido clausurado el pasado 28 de septiembre, pero quien quiera echar un vistazo a las visualizaciones de datos construidas, puede hacerlo en la [nueva web del proyecto](http://veuveclicquotprism.com/).
+
+
+:wq
