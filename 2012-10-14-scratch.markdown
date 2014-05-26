@@ -1,0 +1,22 @@
+---
+layout: post
+title: "scratch"
+date: 2012-10-14 23:14
+comments: true
+categories: scratch
+---
+**Scratch** es un lenguaje de programación con el que los más jóvenes pueden dar sus primeros pasos en la programación mientras desarrollan su creatividad.
+
+Con él se pueden crear animaciones, juegos, historias, y simulaciones. Desde la demostración de un concepto matemático, a lo más sencillo como el siguiente video.
+
+<iframe src="http://player.vimeo.com/video/51317162?title=1&amp;byline=1&amp;portrait=1" width="500" height="313" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/51317162">Introducción a Scratch</a> from <a href="http://vimeo.com/tonisan">Antonio J S Padial</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+
+Es una herramienta sencilla, y los niños y niñas pueden empezar a jugar con ella desde que puedan leer con cierta fluidez. Sin embargo, sus posibilidades son casi ilimitadas, y por ello puede seguir siendo de interés, con las actividades adecuadas, durante la educación secundaria.
+
+Scratch está disponible para su descarga en la [página web de sus creadores](http://scratch.mit.edu) del Instituto Tecnólogico de Massachusetts (MIT). A lo largo de este final de 2012 está anunciada la publicación de la versión 2, con importantes novedades.
+
+En esta **Escuela de Bits**, Scratch tiene un hueco a partir de ahora, con algunos comentarios, vídeos, y muy pronto anunciaremos alguna actividad *presencial*.
+
+Desde aquí os animo a que le echéis un vistazo, y lo pongáis al alcance de cualquier pequeñajo que tengáis cerca. Luego podéis dejar aquí vuestros comentarios al respecto :-]
+
+Un saludo a todos, y hasta la próxima entrega de la escuela.
