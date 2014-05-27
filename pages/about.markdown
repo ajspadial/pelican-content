@@ -1,10 +1,7 @@
----
-layout: page
-title: "Sobre este blog"
-comments: true
-sharing: true
-footer: true
----
+Title: Sobre este blog
+Category: Blog
+Author: Antonio Jesus Sanchez Padial
+
 
 Escuela de Bits es mi blog personal sobre **programación**, una vez quiso ser una especie de manual o curso estructurado, pero hoy se limita a ser un punto donde contar mis desventuras y experimentos. 
 
