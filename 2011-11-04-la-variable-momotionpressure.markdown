@@ -1,3 +1,5 @@
+Category: Blog
+Author: Antonio Jesus Sanchez Padial
 Title: la variable momotionpressure
 Date: 2011-11-04 17:17
 Tags: [processing, android]

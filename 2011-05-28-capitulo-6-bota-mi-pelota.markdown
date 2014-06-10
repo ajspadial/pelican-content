@@ -1,3 +1,5 @@
+Category: Blog
+Author: Antonio Jesus Sanchez Padial
 Title: capitulo 6 - bota, bota, mi pelota
 Date: 2011-05-28 21:09
 Tags: processing

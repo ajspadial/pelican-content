@@ -1,3 +1,5 @@
+Category: Blog
+Author: Antonio Jesus Sanchez Padial
 Title: opencv para processing en ubuntu 64
 Date: 2012-03-12 16:45
 Tags: [processing, opencv]

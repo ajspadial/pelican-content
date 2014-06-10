@@ -1,3 +1,5 @@
+Category: Blog
+Author: Antonio Jesus Sanchez Padial
 Title: Crear un blog con octopress
 Date: 2012-07-11 20:06
 Tags: blog 

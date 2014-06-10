@@ -1,3 +1,5 @@
+Category: Blog
+Author: Antonio Jesus Sanchez Padial
 Title: capítulo 8 - interacción
 Date: 2011-06-15 09:02
 Tags: processing

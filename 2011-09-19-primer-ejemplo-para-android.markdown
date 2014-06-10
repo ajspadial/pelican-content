@@ -1,3 +1,5 @@
+Category: Blog
+Author: Antonio Jesus Sanchez Padial
 Title: primer ejemplo para android
 Date: 2011-09-19 10:43
 Tags: processing

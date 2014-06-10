@@ -1,3 +1,5 @@
+Category: Blog
+Author: Antonio Jesus Sanchez Padial
 Title: se buscan beta testers
 Date: 2012-09-13 06:02
 Tags: 

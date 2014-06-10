@@ -1,3 +1,5 @@
+Category: Blog
+Author: Antonio Jesus Sanchez Padial
 Title: El sueño del desarrollador
 Date: 2013-02-06 23:10
 Tags: humanistadigital

@@ -1,3 +1,5 @@
+Category: Blog
+Author: Antonio Jesus Sanchez Padial
 Title: capítulo 3 - instalar processing en tu equipo
 Date: 2011-05-18 18:00
 Tags: processing 

@@ -1,3 +1,5 @@
+Category: Blog
+Author: Antonio Jesus Sanchez Padial
 Title: Lavado de cara
 Date: 2013-01-22 23:52
 Tags: blog 

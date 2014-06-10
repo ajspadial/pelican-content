@@ -1,3 +1,5 @@
+Category: Blog
+Author: Antonio Jesus Sanchez Padial
 Title: El muro 2 pvector y operadores lógicos
 Date: 2011-07-01 09:37
 Tags: processing

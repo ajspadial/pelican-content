@@ -1,3 +1,5 @@
+Category: Blog
+Author: Antonio Jesus Sanchez Padial
 Title: Sánchez Padial, humanista digital. Abril 2013
 Date: 2013-05-07 14:54
 Tags: humanistadigital

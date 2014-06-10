@@ -1,3 +1,5 @@
+Category: Blog
+Author: Antonio Jesus Sanchez Padial
 Title: El muro 1
 Date: 2011-06-28 09:12
 Tags: processing

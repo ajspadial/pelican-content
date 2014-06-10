@@ -1,3 +1,5 @@
+Category: Blog
+Author: Antonio Jesus Sanchez Padial
 Title: el muro 3. introducción al array
 Date: 2011-07-05 10:00
 Tags: processing

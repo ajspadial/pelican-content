@@ -1,3 +1,5 @@
+Category: Blog
+Author: Antonio Jesus Sanchez Padial
 Title: becas de investigación Knight-Mozilla
 Date: 2012-07-18 20:11
 Tags: [investigacion, periodismo digital]

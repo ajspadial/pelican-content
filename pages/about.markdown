@@ -1,3 +1,5 @@
+Category: Blog
+Author: Antonio Jesus Sanchez Padial
 Title: Sobre este blog
 Category: Blog
 Author: Antonio Jesus Sanchez Padial

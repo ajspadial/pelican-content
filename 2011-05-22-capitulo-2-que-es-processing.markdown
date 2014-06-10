@@ -1,3 +1,5 @@
+Category: Blog
+Author: Antonio Jesus Sanchez Padial
 Title: capítulo 2 - qué es processing?
 Date: 2011-05-22 19:41
 Tags: processing

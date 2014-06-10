@@ -1,3 +1,5 @@
+Category: Blog
+Author: Antonio Jesus Sanchez Padial
 Title: prism
 Date: 2012-09-25 23:43
 Tags: processing 
@@ -12,7 +14,7 @@ He participado escribiendo tres programas, de los cuales finalmente dos han sido
 
 <!-- more -->
 
-{% img http://farm9.staticflickr.com/8309/8007418871_abfb6e0566.jpg %} 
+![Image 4](http://farm9.staticflickr.com/8309/8007418871_abfb6e0566.jpg) 
 Esta es la [página web del acontecimiento](http://keiichimatsuda.com/prism/), que se podrá en el museo hasta el 28 de septiembre.
 
 En [Wallpaper*](http://www.wallpaper.com/video/design/prism-installation-by-keiichi-matsuda-for-veuve-clicquot-london/1839903946001) tienen un interesante vídeo contando la construcción del *iceberg*.

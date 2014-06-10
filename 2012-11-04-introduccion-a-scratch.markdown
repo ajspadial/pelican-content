@@ -1,3 +1,5 @@
+Category: Blog
+Author: Antonio Jesus Sanchez Padial
 Title: Introducción a Scratch
 Date: 2012-11-04 09:08
 Tags: scratch 

@@ -1,3 +1,5 @@
+Category: Blog
+Author: Antonio Jesus Sanchez Padial
 Title: capitulo 5 - ahora en serio
 Date: 2011-05-26 20:23
 Tags: processing

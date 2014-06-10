@@ -1,3 +1,5 @@
+Category: Blog
+Author: Antonio Jesus Sanchez Padial
 Title: capítulo 4 - tu primer programa en processing
 Date: 2011-05-24 18:40
 Tags: processing
@@ -10,7 +12,7 @@ Una vez abierto Processing escribiremos la siguiente línea.
 
 Y ejecutaremos el programa pulsando el botón `Play`, en la esquina superior izquierda de la interfaz (también sirve `Ctrl + R`). El resultado será una nueva pantalla similar a la siguiente.
 
-{% img http://farm9.staticflickr.com/8423/7604430350_75460fdf82_m.jpg %}
+![Image 1](http://farm9.staticflickr.com/8423/7604430350_75460fdf82_m.jpg)
 
 
 ## ¿Qué ha ocurrido?
@@ -27,13 +29,13 @@ Processing nos ofrece las variables width y height para acceder al tamaño de la
 
 	ellipse(width, height,50,50);
 
-{% img http://farm8.staticflickr.com/7255/7604430428_d431ff9e17_m.jpg %}
+![Image 2](http://farm8.staticflickr.com/7255/7604430428_d431ff9e17_m.jpg)
 
 Para conseguir valores proporcionales al tamaño de la pantalla podemos hacer uso de los operadores `+`,`-`,`*` y `/`.
 
 	ellipse(width/2, height/2,50,50);
 
-{% img http://farm9.staticflickr.com/8012/7604430288_8cd93c829e_m.jpg %}
+![Image 3](http://farm9.staticflickr.com/8012/7604430288_8cd93c829e_m.jpg)
 ### Referencia
 
 Los comandos de Processing tienen hipervínculos a la referencia (ayuda) de Processing. Este documento está en inglés, <s>pero lo traduciremos gradualmente en la escuela de bits</s>.

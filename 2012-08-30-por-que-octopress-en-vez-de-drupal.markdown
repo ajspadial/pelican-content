@@ -1,3 +1,5 @@
+Category: Blog
+Author: Antonio Jesus Sanchez Padial
 Title: por qué octopress en vez de drupal?
 Date: 2012-08-30 22:50
 Tags: octopress

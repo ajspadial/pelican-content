@@ -1,3 +1,5 @@
+Category: Blog
+Author: Antonio Jesus Sanchez Padial
 Title: incompatibilidades
 Date: 2012-09-04 16:12
 Tags: escueladebits

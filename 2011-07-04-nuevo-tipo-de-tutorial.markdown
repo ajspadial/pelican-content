@@ -1,3 +1,5 @@
+Category: Blog
+Author: Antonio Jesus Sanchez Padial
 Title: nuevo tipo de tutorial
 Date: 2011-07-04 09:56
 Tags: processing

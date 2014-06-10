@@ -1,3 +1,5 @@
+Category: Blog
+Author: Antonio Jesus Sanchez Padial
 Title: capítulo 8.2 - dinámica
 Date: 2011-06-22 17:27
 Tags: processing

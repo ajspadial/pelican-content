@@ -1,3 +1,5 @@
+Category: Blog
+Author: Antonio Jesus Sanchez Padial
 Title: Processing Madrid
 Date: 2012-09-28 23:49
 Tags: [processing, processingMadrid]
