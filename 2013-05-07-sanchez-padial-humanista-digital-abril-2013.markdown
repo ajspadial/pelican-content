@@ -1,10 +1,9 @@
----
-layout: post
-title: "Sánchez Padial, humanista digital. Abril 2013"
-date: 2013-05-07 14:54
-comments: true
-categories: humanistadigital
----
+Title: Sánchez Padial, humanista digital. Abril 2013
+Date: 2013-05-07 14:54
+Tags: humanistadigital
+Category: Blog
+Author: Antonio Jesus Sanchez Padial
+
 Este mes de Abril he vuelto a tomar la resolución de encauzar mi actividad
 profesional hacia las **humanidades digitales**. A partir de ahora, aunque no
 escriba lo suficiente en este blog, intentaré dedicar un mensaje mensual a las

@@ -1,10 +1,9 @@
----
-layout: post
-title: "El muro 2 pvector y operadores lógicos"
-date: 2011-07-01 09:37
-comments: true
-categories: processing
----
+Title: El muro 2 pvector y operadores lógicos
+Date: 2011-07-01 09:37
+Tags: processing
+Category: Blog
+Author: Antonio Jesus Sanchez Padial
+
 En la última entrada nos quedamos con las ganas de destruir nuestro bonito muro, así que es el momento de empezar.
 
 En primer lugar añadiremos una pelota en movimiento, esto ya lo hemos estudiado en capítulos anteriores. Usaremos un nuevo tipo de variable para almacenar la posición, el **PVector**. Y sendas funciones para dibujar la pelota y actualizar su posición.

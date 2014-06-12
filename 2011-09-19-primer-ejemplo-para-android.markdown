@@ -1,10 +1,9 @@
----
-layout: post
-title: "primer ejemplo para android"
-date: 2011-09-19 10:43
-comments: true
-categories: processing
----
+Title: primer ejemplo para android
+Date: 2011-09-19 10:43
+Tags: processing
+Category: Blog
+Author: Antonio Jesus Sanchez Padial
+
 Una de las principales diferencias de programar para **Android** respecto al PC (o+ Mac) es el uso del ratón. Los dispositivos Android no suelen tener ratón o equivalente y algunos elemetos de **Processing** como `mouseClicked` no tienen sentido.
 
 Processing nos facilita la vida de todos modos, y viejos conocidos como `mouseX`, `mouseY` siguen estando disponibles, ofreciendo la última pulsación en la pantalla.

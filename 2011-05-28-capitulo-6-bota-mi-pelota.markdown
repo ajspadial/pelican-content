@@ -1,10 +1,9 @@
----
-layout: post
-title: "capitulo 6 - bota, bota, mi pelota"
-date: 2011-05-28 21:09
-comments: true
-categories: processing
----
+Title: capitulo 6 - bota, bota, mi pelota
+Date: 2011-05-28 21:09
+Tags: processing
+Category: Blog
+Author: Antonio Jesus Sanchez Padial
+
 Nuestro objetivo en este capítulo es diseñar una animación de una pelota rebotando.
 
 Como hemos visto en el capítulo anterior habrá una sección `setup()` donde programaremos la configuración inicial, y una sección `draw()` donde programaremos la animación propiamente dicha.

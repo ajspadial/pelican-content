@@ -1,10 +1,9 @@
----
-layout: post
-title: "El sueño del desarrollador"
-date: 2013-02-06 23:10
-comments: true
-categories: humanistadigital
----
+Title: El sueño del desarrollador
+Date: 2013-02-06 23:10
+Tags: humanistadigital
+Category: Blog
+Author: Antonio Jesus Sanchez Padial
+
 Durante la semana pasada he leído algunos capítulos de *El sueño del humanismo*
  de Francisco Rico, como parte de las lecciones del curso on line (MOOC) **El 
  Humanista Digital** dirigido por Juan Luis Fernández del cultureplex, Universidad

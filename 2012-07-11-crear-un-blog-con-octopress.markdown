@@ -1,10 +1,9 @@
----
-layout: post
-title: "Crear un blog con octopress"
-date: 2012-07-11 20:06
-comments: true
-categories: blog 
----
+Title: Crear un blog con octopress
+Date: 2012-07-11 20:06
+Tags: blog 
+Category: Blog
+Author: Antonio Jesus Sanchez Padial
+
 En este primer artículo de la nueva (*otra vez*) **Escuela de Bits**, describo los pasos necesarios para montar un sitio como este usando [Octopress][octopress1].
 
 El sitio web de octopress cuenta con instrucciones más detalladas para cada uno de estos apartados, aunque están inglés.

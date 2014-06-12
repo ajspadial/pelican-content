@@ -1,10 +1,9 @@
----
-layout: post
-title: "incompatibilidades"
-date: 2012-09-04 16:12
-comments: true
-categories: escueladebits
----
+Title: incompatibilidades
+Date: 2012-09-04 16:12
+Tags: escueladebits
+Category: Blog
+Author: Antonio Jesus Sanchez Padial
+
 Como alguno de los lectores sabrá soy [**funcionario**](http://www.cchs.csic.es/personal/antonio.spadial) en la Administración del Estado. Como tal estoy sujeto a la [Ley 53/1984, de 26 de diciembre, de Incompatibilidades del Personal al Servicio de las Administraciones Públicas](http://www.boe.es/buscar/act.php?id=BOE-A-1985-151) que limita las actividades privadas de los empleados públicos.
 
 <!-- more -->

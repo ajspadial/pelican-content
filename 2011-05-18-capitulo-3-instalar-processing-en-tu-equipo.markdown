@@ -1,12 +1,9 @@
----
-layout: post
-title: "capítulo 3 - instalar processing en tu equipo"
-date: 2011-05-18 18:00
-comments: true
-categories: processing 
----
+Title: capítulo 3 - instalar processing en tu equipo
+Date: 2011-05-18 18:00
+Tags: processing 
+Category: Blog
+Author: Antonio Jesus Sanchez Padial
 *Este artículo fue escrito para la escuela de bits original en mayo de 2011*
-
 Supongo que os pueda parecer raro comenzar por el capítulo 3; pero al ser los dos primeros capítulos meramente introductorios <strike>(ver hoja de ruta)</strike>, he preferido comenzar por este capítulo de forma que podáis pasar a la acción cuanto antes.
 
 Ha llegado el momento de pasar a la acción, para ello lo primero que tendremos que hacer es conseguir la última versión de **Processing** para nuestro sistema operativo.

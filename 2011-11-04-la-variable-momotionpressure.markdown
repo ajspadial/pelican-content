@@ -1,10 +1,9 @@
----
-layout: post
-title: "la variable momotionpressure"
-date: 2011-11-04 17:17
-comments: true
-categories: [processing, android]
----
+Title: la variable momotionpressure
+Date: 2011-11-04 17:17
+Tags: [processing, android]
+Category: Blog
+Author: Antonio Jesus Sanchez Padial
+
 Hola a todos, 
 
 en mi aprendizaje de **Processing** para **Android** he echado en falta documentación sobre algunos elementos. En particular, prácticamente no he encontrado nada sobre `motionPressure` que en la documentación del [wiki de processing](http://wiki.processing.org) aparecía apenas citado y descrito como una función.

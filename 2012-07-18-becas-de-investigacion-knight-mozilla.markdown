@@ -1,10 +1,9 @@
----
-layout: post
-title: "becas de investigación Knight-Mozilla"
-date: 2012-07-18 20:11
-comments: true
-categories: [investigacion, periodismo digital]
----
+Title: becas de investigación Knight-Mozilla
+Date: 2012-07-18 20:11
+Tags: [investigacion, periodismo digital]
+Category: Blog
+Author: Antonio Jesus Sanchez Padial
+
 Desde el pasado abril, y hasta el próximo **9 de agosto** está abierta la presentación de candidaturas a las becas de investigación de las fundaciones Knight y Mozilla para desarrolladores y tecnólogos en el programa [OpenNews](http://mozillaopennews.org/).
 
 Los becados trabajaran un año en algunas de las principales redaciones del mundo programando junto a reporteros, diseñadores y otros desarrolladores. 

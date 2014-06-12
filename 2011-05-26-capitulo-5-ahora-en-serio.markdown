@@ -1,10 +1,9 @@
----
-layout: post
-title: "capitulo 5 - ahora en serio"
-date: 2011-05-26 20:23
-comments: true
-categories: processing
----
+Title: capitulo 5 - ahora en serio
+Date: 2011-05-26 20:23
+Tags: processing
+Category: Blog
+Author: Antonio Jesus Sanchez Padial
+
 Hay algo más en **Processing** que primitivas. Si has jugado un poco con ellas habrás visto que aunque interesantes, pueden ser un poco aburridas. El primer paso para crear un sistema interactivo, que atienda a las acciones del usuario, es ver la estructura de un programa en Processing.
 
 	void setup() {

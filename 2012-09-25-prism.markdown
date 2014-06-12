@@ -1,10 +1,9 @@
----
-layout: post
-title: "prism"
-date: 2012-09-25 23:43
-comments: true
-categories: processing 
----
+Title: prism
+Date: 2012-09-25 23:43
+Tags: processing 
+Category: Blog
+Author: Antonio Jesus Sanchez Padial
+
 El pasado mes de julio [Matt Pearson](http://zenbullets.com), autor de *Generative art: a practical guide*, pidió algunos colaboradores para escribir *sketches* de Processing, para un proyecto de [Keiichi Matsuda](http://keiichimatsuda.com).
 
 El proyecto, **Prism** consistía en una especie de *iceberg* suspendido de la cúpula más alta del museo Victoria&Albert en Londres. Sobre cada una de las caras de la estructura se proyectarían visualizaciones más o menos estéticas, representando datos en tiempo real de diverso tipo de la ciudad de Londres, desde la temperatura, a la velocidad del viento, a la cotización de la bolsa en la city.
@@ -13,7 +12,7 @@ He participado escribiendo tres programas, de los cuales finalmente dos han sido
 
 <!-- more -->
 
-{% img http://farm9.staticflickr.com/8309/8007418871_abfb6e0566.jpg %} 
+![Image 4](http://farm9.staticflickr.com/8309/8007418871_abfb6e0566.jpg) 
 Esta es la [página web del acontecimiento](http://keiichimatsuda.com/prism/), que se podrá en el museo hasta el 28 de septiembre.
 
 En [Wallpaper*](http://www.wallpaper.com/video/design/prism-installation-by-keiichi-matsuda-for-veuve-clicquot-london/1839903946001) tienen un interesante vídeo contando la construcción del *iceberg*.

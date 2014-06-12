@@ -1,10 +1,9 @@
----
-layout: post
-title: "capítulo 8 - interacción"
-date: 2011-06-15 09:02
-comments: true
-categories: processing
----
+Title: capítulo 8 - interacción
+Date: 2011-06-15 09:02
+Tags: processing
+Category: Blog
+Author: Antonio Jesus Sanchez Padial
+
 *El capítulo 7 estará dedicado a las funciones en **Processing**. Puesto que ya hemos avanzado este tema de mano del blog [Processing Cafe](http://processing.mondonerd.com/tutorial/372), paso al siguiente capítulo dedicado a la interacción.
 La versión final del **Primeros Pasos con Processing** si contará con un capítulo 7 dedicado a las funciones.*
 

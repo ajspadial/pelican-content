@@ -1,10 +1,9 @@
----
-layout: post
-title: "El muro 1"
-date: 2011-06-28 09:12
-comments: true
-categories: processing
----
+Title: El muro 1
+Date: 2011-06-28 09:12
+Tags: processing
+Category: Blog
+Author: Antonio Jesus Sanchez Padial
+
 En esta pequeña serie de artículo os invito a desarrollar juntos un pequeño videojuego, mientras aprendemos o repasamos algunos conceptos básicos de programación como los bucles o los arrays.
 
 El juego que trataremos será **El Muro**, al que algunos tal vez conozcáis con su nombre comercial Arkanoid. Es un juego bastante antiguo, pero que sigue vigente a través de sus versiones para toda la gama de teléfonos móviles.

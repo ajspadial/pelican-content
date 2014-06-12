@@ -1,10 +1,9 @@
----
-layout: post
-title: "el muro 3. introducción al array"
-date: 2011-07-05 10:00
-comments: true
-categories: processing
----
+Title: el muro 3. introducción al array
+Date: 2011-07-05 10:00
+Tags: processing
+Category: Blog
+Author: Antonio Jesus Sanchez Padial
+
 
 Hasta este momento hemos puesto ladrillos y hecho botar nuestra pelota destructora, pero ... ¡todavía no destruye nada!
 

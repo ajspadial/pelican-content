@@ -1,10 +1,9 @@
----
-layout: post
-title: "capítulo 2 - qué es processing?"
-date: 2011-05-22 19:41
-comments: true
-categories: processing
----
+Title: capítulo 2 - qué es processing?
+Date: 2011-05-22 19:41
+Tags: processing
+Category: Blog
+Author: Antonio Jesus Sanchez Padial
+
 *Este artículo fue escrito para la escuela de bits original en mayo de 2011*
 
 **Processing** es un **lenguaje de programación** y un **entorno de desarrollo** orientado para aquellos interesados en los gráficos por ordenador, la animación o la interacción.

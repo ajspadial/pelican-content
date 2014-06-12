@@ -1,10 +1,9 @@
----
-layout: post
-title: "por qué octopress en vez de drupal?"
-date: 2012-08-30 22:50
-comments: true
-categories: octopress
----
+Title: por qué octopress en vez de drupal?
+Date: 2012-08-30 22:50
+Tags: octopress
+Category: Blog
+Author: Antonio Jesus Sanchez Padial
+
 Durante dos años esta [Escuela de Bits]("http://www.escueladebits.com") ha estado basada en **Drupal 6**, y todo ha ido bastante bien.
 
 El único inconveniente de [Drupal](http://drupal.org), para mí, era lo incómodo de escribir y editar los artículos en la web, especialmente cuando estos incluyen ejemplos de código.

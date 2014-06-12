@@ -1,10 +1,9 @@
----
-layout: post
-title: "Lavado de cara"
-date: 2013-01-22 23:52
-comments: true
-categories: blog 
----
+Title: Lavado de cara
+Date: 2013-01-22 23:52
+Tags: blog 
+Category: Blog
+Author: Antonio Jesus Sanchez Padial
+
 Le he dado un pequeño lavado de cara al blog. He echado abajo la tapadera 
 de la **Escuela de Bits** y se transforma en un blog personal, técnico 
 pero de corte personal. 

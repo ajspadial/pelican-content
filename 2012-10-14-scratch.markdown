@@ -1,10 +1,9 @@
----
-layout: post
-title: "scratch"
-date: 2012-10-14 23:14
-comments: true
-categories: scratch
----
+Title: scratch
+Date: 2012-10-14 23:14
+Tags: scratch
+Category: Blog
+Author: Antonio Jesus Sanchez Padial
+
 **Scratch** es un lenguaje de programación con el que los más jóvenes pueden dar sus primeros pasos en la programación mientras desarrollan su creatividad.
 
 Con él se pueden crear animaciones, juegos, historias, y simulaciones. Desde la demostración de un concepto matemático, a lo más sencillo como el siguiente video.

@@ -1,10 +1,9 @@
----
-layout: post
-title: "Processing Madrid"
-date: 2012-09-28 23:49
-comments: true
-categories: [processing, processingMadrid]
----
+Title: Processing Madrid
+Date: 2012-09-28 23:49
+Tags: [processing, processingMadrid]
+Category: Blog
+Author: Antonio Jesus Sanchez Padial
+
 **Processing Madrid** es un evento de difusión de la programación creativa, así como de creación y refuerzo de esta comunidad. Está inspirado en los múltiples eventos que se vienen desarrollando en distintos lugares del mundo, encabezados por [Processing Paris](http://processingparis.org), y que incluyen a [Berlin](http://twitter.com/p5berlin), [Sao Paulo](http://twitter.com/processingsp) y [otros muchos](http://processingcities.org).
 
 <!-- more -->

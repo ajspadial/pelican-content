@@ -1,10 +1,9 @@
----
-layout: post
-title: "opencv para processing en ubuntu 64"
-date: 2012-03-12 16:45
-comments: true
-categories: [processing, opencv]
----
+Title: opencv para processing en ubuntu 64
+Date: 2012-03-12 16:45
+Tags: [processing, opencv]
+Category: Blog
+Author: Antonio Jesus Sanchez Padial
+
 Hola a todos,
 
 Tras una incursión por el taller de [Big Games](http://uncoded.es/biggames) que se celebró hace un par de semanas en Medialab-Prado (Madrid) me he puesto a instalar opencv en processing.
