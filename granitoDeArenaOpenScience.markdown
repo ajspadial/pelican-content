@@ -1,25 +1,25 @@
 Title: Un granito de arena para el Open Science
-Author: Antonio Jesús Sánchez Padial
+Author: Antonio JesÃºs SÃ¡nchez Padial
 Date: 2014/06/23
 Category: Blog
 Tags: Open Science
 
-Hace ya muchos años que tenía la espinita clavada de hacer una contribución a algún proyecto Open Source. Aún recuerdo explorar las repositorios de **SourceForge** en los primeros años 2000, en busca de un proyecto que me hiciera tilín. Pero me parecía una tarea reservada a colosos. El solo hecho de tener que comprender el código de terceros se me antojaba una tarea formidable: era uno de esos programadores que prefería empezarlo todo de cero.
+Hace ya muchos aÃ±os que tenÃ­a la espinita clavada de hacer una contribuciÃ³n a algÃºn proyecto Open Source. Aun recuerdo explorar las repositorios de **SourceForge** en los primeros aÃ±os 2000, en busca de un proyecto que me hiciera tilÃ­n. Pero me parecÃ­a una tarea reservada a colosos. El solo hecho de tener que comprender el cÃ³digo de terceros se me antojaba una tarea formidable: era uno de esos programadores que preferÃ­a empezarlo todo de cero.
 
-10 años después todo cambió. No puedo identificar el momento exacto, aunque sí algunos textos y autores que me inspiraron. Creo que conocer a la comunidad **Drupal** tuvo algo o mucho que ver. También empezar a leer sobre las *humanidades digitales*. Creo que empecé a comprender el código como otra cosa, como una obra cultural. La verdad que no lo sé muy bien. Pero empecé a leer código de terceros. Primero módulos de Drupal, y después el *core* del proyecto. Mentiría si dijera que que lo llegué a comprender por completo, pero mi mente *evolucionó*.
+10 aÃ±os despuÃ©s todo cambiÃ³. No puedo identificar el momento exacto, aunque sÃ­ algunos textos y autores que me inspiraron. Creo que conocer a la comunidad **Drupal** tuvo algo o mucho que ver. TambiÃ©n empezar a leer sobre las *humanidades digitales*. Creo que empecÃ© a comprender el cÃ³digo como otra cosa, como una obra cultural. La verdad que no lo sÃ© muy bien. Pero empecÃ© a leer cÃ³digo de terceros. Primero mÃ³dulos de Drupal, y despuÃ©s el *core* del proyecto. MentirÃ­a si dijera que que lo lleguÃ© a comprender por completo, pero mi mente *evolucionÃ³*.
 
-**Git** y **GitHub** tuvieron mucho que ver también. Y por supuesto las horas en Tyba trabajando en equipo después de haber sido tantos años un lobo solitario.
+**Git** y **GitHub** tuvieron mucho que ver tambiÃ©n. Y por supuesto las horas en Tyba trabajando en equipo despuÃ©s de haber sido tantos aÃ±os un lobo solitario.
 
-Hace poco más de un mes me uní al Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria, y una de mis primeras tareas fue hacerme cargo de la parte técnica de nuestras revistas científicas. Usamos una versión modificada de **Open Journal System**.
+Hace poco mÃ¡s de un mes me unÃ­ al Instituto Nacional de InvestigaciÃ³n y TecnologÃ­a Agraria y Alimentaria, y una de mis primeras tareas fue hacerme cargo de la parte tÃ©cnica de nuestras revistas cientÃ­ficas. Usamos una versiÃ³n modificada de **Open Journal System**.
 
-Así que pasé los primeros días colocando nuestras modificaciones en *commits* independientes de la rama oficial del proyecto. Fue escalofriantemente fácil. Ahora todo nuestro código particular estaba perfectamente diferenciado del código oficial. **¡Podíamos actualizar el sistema de manera indolora a cualquier versión futura!** En las próximas semanas escribiré un tutorial explicando los pasos que seguí para esto, de forma que pueda servir a otros que se enfrenten al mismo problema.
+AsÃ­ que pasÃ© los primeros dÃ­as colocando nuestras modificaciones en *commits* independientes de la rama oficial del proyecto. Fue escalofriantemente fÃ¡cil. Ahora todo nuestro cÃ³digo particular estaba perfectamente diferenciado del cÃ³digo oficial. **Â¡PodÃ­amos actualizar el sistema de manera indolora a cualquier versiÃ³n futura!** En las prÃ³ximas semanas escribirÃ© un tutorial explicando los pasos que seguÃ­ para esto, de forma que pueda servir a otros que se enfrenten al mismo problema.
 
-Un poco más tarde, la unidad de publicaciones me comentó que echaba en falta una [funcionalidad en la búsqueda del sistema](https://github.com/pkp/ojs/pull/177). Aunque todavía no sabía manejar la aplicación como usuario, ya sabía como encontrar la clase que controlaba esa búsqueda así que añadí media docena de líneas. 
-Creé una nueva rama del proyecto específicamente para dicho *commit*. Aprendí a usar `git cherry-pick`. Y me animé a ofrecer mi código al proyecto original con un **Pull Request**. Me aconsejaron unos cambios, y una vez hechos la nueva opción de búsqueda forma parte de la versión 2.4 de Open Journal System.
+Un poco mÃ¡s tarde, la unidad de publicaciones me comentÃ³ que echaba en falta una [funcionalidad en la bÃºsqueda del sistema](https://github.com/pkp/ojs/pull/177). Aunque todavÃ­a no sabÃ­a manejar la aplicaciÃ³n como usuario, ya sabÃ­a como encontrar la clase que controlaba esa bÃºsqueda asÃ­ que aÃ±adÃ­ media docena de lÃ­neas. 
+CreÃ© una nueva rama del proyecto especÃ­ficamente para dicho *commit*. AprendÃ­ a usar `git cherry-pick`. Y me animÃ© a ofrecer mi cÃ³digo al proyecto original con un **Pull Request**. Me aconsejaron unos cambios, y una vez hechos la nueva opciÃ³n de bÃºsqueda forma parte de la versiÃ³n 2.4 de Open Journal System.
 
-Es un pequeña gota de agua en un super proyecto como Open Journal System, en el océano del *software libre*. Pero me siento encantado de saber que puede ser útli para otros usuarios del programa (más de 24.000 revistas en todo el mundo).
+Es un pequeÃ±a gota de agua en un super proyecto como Open Journal System, en el ocÃ©ano del *software libre*. Pero me siento encantado de saber que puede ser Ãºtil para otros usuarios del programa (mÃ¡s de 24.000 revistas en todo el mundo).
 
-En fin, que escribo estas líneas porque sé que este es solo el primer paso, que espero tener muchas más oportunidades para compartir mi *arte* con el mundo, y que si alguien se anima a contribuir su esfuerzo a sus programas favoritos, seguro que todos ganamos.
+En fin, que escribo estas lÃ­neas porque sÃ© que este es solo el primer paso, que espero tener muchas mÃ¡s oportunidades para compartir mi *arte* con el mundo, y que si alguien se anima a contribuir su esfuerzo a sus programas favoritos, seguro que todos ganamos.
 
 Os dejo, me voy a domar unos bits.
 
