@@ -24,5 +24,3 @@ En fin, que escribo estas líneas porque sé que este es solo el primer paso, que 
 Os dejo, me voy a domar unos bits.
 
 :wq
-
-
