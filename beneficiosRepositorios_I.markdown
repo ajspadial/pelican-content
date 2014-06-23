@@ -1,5 +1,6 @@
 Title: Beneficios de un repositorio abierto para la institución
 Author: Antonio Jesús Sánchez Padial
+Date: 2014/06/12
 Category: Blog
 Tags: OpenData
 
